@@ -1,4 +1,5 @@
 let count = 0;
+//This is a comment for new branch
 
 function increment() {
     count++;
